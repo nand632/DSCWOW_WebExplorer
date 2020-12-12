@@ -593,6 +593,10 @@ a:hover {
     background-image: url('../images/background/tour-view.jpg');
 }
 
+.tour-view-2 {
+    background-image: url('../images/background/tour-view-2.jpg');
+}
+
 .blog {
     background-image: url('../images/background/blog.jpg');
 }
